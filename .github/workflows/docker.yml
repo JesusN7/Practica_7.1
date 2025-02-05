@@ -45,6 +45,7 @@ jobs:
           push: true
           tags: |
             jesusn7/practica_7.1:latest
-            ghcr.io/JesusN7/practica_7.1:latest
+            ghcr.io/jesusn7/practica_7.1:latest
 # Cambios de prueba
 # Nuevos cambios de prueba
+# Nuevo cambio
